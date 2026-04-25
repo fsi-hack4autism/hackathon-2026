@@ -49,7 +49,7 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 | Name | Role | Company |
 |------|------|---------|
 | Peter Smulovics | Use Case Lead | Morgan Stanley |
-| Leo Junquera | Subject Matter Expert | Parent |
+| Leo Junquera | Subject Matter Expert | Google |
 | Peter Smulovics | Tech Lead | Morgan Stanley |
 
 ### Use case 4: AI AMBIENT GUARDIAN: THE INVISIBLE SAFETY NET FOR HOUSING
@@ -62,7 +62,7 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 | Name | Role | Company |
 |------|------|---------|
 | Leo Junquera | Use Case Lead | Google |
-| Leo Junquera | Subject Matter Expert | Parent |
+| Leo Junquera | Subject Matter Expert | Google |
 |  | Tech Lead | |
 
 ### Use case 5: AI FINANCIAL SENTRY: SECURE GUARDIANSHIP & LONGEVITY
@@ -75,7 +75,7 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 | Name | Role | Company |
 |------|------|---------|
 | Leo Junquera | Use Case Lead | Google |
-| Leo Junquera | Subject Matter Expert | Parent |
+| Leo Junquera | Subject Matter Expert | Google |
 |  | Tech Lead | |
 
 ### Use case 6: GENERATIVE SOCIAL SANDBOX: METAVERSE-BASED SKILL BUILDING
@@ -88,5 +88,5 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 | Name | Role | Company |
 |------|------|---------|
 | Caroline Matthews | Use Case Lead | Microsoft |
-| Allison Junquera | Subject Matter Expert | Parent |
+| Allison Junquera | Subject Matter Expert | BCBA |
 | Caroline Matthews | Tech Lead | Microsoft |
