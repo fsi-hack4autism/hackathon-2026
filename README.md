@@ -15,7 +15,9 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 
 ### Use case 1: AI-POWERED “COMMAND CENTER”: MULTI-SENSORY LEARNING ANALYSIS
 **FOCUS:** Build a Digital Command Center that uses Computer Vision and Natural Language Processing (NLP) to capture multi-sensory data during learning sessions. This helps professionals understand engagement levels and session dynamics in real-time, allowing them to focus on the individual rather than the clipboard.
+
 **Hackable Outcome:** A dashboard that synthesizes video/audio into actionable “session health” metrics.
+
 **GitHub:** https://github.com/fsi-hack4autism/uc1-multisensory-learning-analysis
 
 | Name | Role | Company |
@@ -26,7 +28,9 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 
 ### Use case 2: AGENTIC IEP ARCHITECT: LIFETIME DATA SYNTHESIS
 **FOCUS:** Utilize Agentic AI and RAG (Retrieval-Augmented Generation) to ingest decades of fragmented data—diagnostic reports, psychoeducational evaluations, and IEPs (Individualized Education Plan). The goal is to build a secure, personalized foundation that generates highly tailored program recommendations that evolve with the individual.
+
 **Hackable Outcome:** An AI agent capable of cross-referencing past evaluations to suggest current IEP goals.
+
 **GitHub:** https://github.com/fsi-hack4autism/uc2-lifetime-data-synthesis
 
 | Name | Role | Company |
@@ -48,7 +52,9 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 
 ### Use case 4: AI AMBIENT GUARDIAN: THE INVISIBLE SAFETY NET FOR HOUSING
 **FOCUS:** Leverage Edge AI and Sensor Fusion to create a “Shared Care” model for semi-independent living. Instead of constant human “hovering,” use predictive behavioral monitoring and anomaly detection to identify emergencies or elopement risks instantly.
+
 **Hackable Outcome:** A predictive model using mock sensor data to differentiate between “routine movement” and “emergency behavior".
+
 **GitHub:** https://github.com/fsi-hack4autism/uc4-invisible-safety-net-for-housing
 
 | Name | Role | Company |
@@ -59,7 +65,9 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 
 ### Use case 5: AI FINANCIAL SENTRY: SECURE GUARDIANSHIP & LONGEVITY
 **FOCUS:** Design AI-driven Financial Guardrails that protect neurodivergent adults from cyber-criminals and exploitation. This focus addresses the “longevity cliff” by using AI to manage guardianship oversight and trust disbursements for individuals who outlive their primary caregivers.
+
 **Hackable Outcome:** An AI-monitored “Smart Wallet” or fraud-detection layer specifically tuned for vulnerable users.
+
 **GitHub:** https://github.com/fsi-hack4autism/uc4-invisible-safety-net-for-housing
 
 | Name | Role | Company |
@@ -70,7 +78,9 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 
 ### Use case 6: GENERATIVE SOCIAL SANDBOX: METAVERSE-BASED SKILL BUILDING
 **FOCUS:** Use Generative AI and VR/XR to create a scalable “Social Metaverse.” Individuals can interact with AI-driven NPCs (Non-Player Characters) that provide real-time feedback on social cues, helping users build confidence and navigate complex social scenarios in a safe, repeatable space.
+
 **Hackable Outcome:** A VR environment or web-based simulation featuring LLM-powered characters for social roleplay.
+
 **GitHub:** https://github.com/fsi-hack4autism/uc6-metaverse-based-skill-building
 
 | Name | Role | Company |
