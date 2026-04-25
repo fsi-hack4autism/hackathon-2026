@@ -18,9 +18,6 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 **Hackable Outcome:** A dashboard that synthesizes video/audio into actionable “session health” metrics.
 **GitHub:** https://github.com/fsi-hack4autism/uc1-multisensory-learning-analysis
 
-#### Stakeholders
-* RBT, BCBA, parent, child
-#### Team
 | Name | Role | Company |
 |------|------|---------|
 | Rishi Bhatnagar | Use Case Lead | LPL Financial |
@@ -32,9 +29,6 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 **Hackable Outcome:** An AI agent capable of cross-referencing past evaluations to suggest current IEP goals.
 **GitHub:** https://github.com/fsi-hack4autism/uc2-lifetime-data-synthesis
 
-#### Stakeholders
-* RBT, BCBA, parent, child
-#### Team
 | Name | Role | Company |
 |------|------|---------|
 | Devanshi Thakar | Use Case Lead | Microsoft |
@@ -46,9 +40,6 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 **Hackable Outcome:** A tool that helps a user “prompt” or manage an automated system to complete a complex workplace task (e.g., inventory management or digital asset tagging).
 **GitHub:** https://github.com/fsi-hack4autism/uc3-upskilling-for-the-ai-economy
 
-#### Stakeholders
-* BCBA, parent, child
-#### Leadership team
 | Name | Role | Company |
 |------|------|---------|
 | Peter Smulovics | Use Case Lead | Morgan Stanley |
@@ -60,9 +51,6 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 **Hackable Outcome:** A predictive model using mock sensor data to differentiate between “routine movement” and “emergency behavior".
 **GitHub:** https://github.com/fsi-hack4autism/uc4-invisible-safety-net-for-housing
 
-#### Stakeholders
-* BCBA, parent, child
-#### Leadership team
 | Name | Role | Company |
 |------|------|---------|
 | Leo Junquera | Use Case Lead | Google |
@@ -74,9 +62,6 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 **Hackable Outcome:** An AI-monitored “Smart Wallet” or fraud-detection layer specifically tuned for vulnerable users.
 **GitHub:** https://github.com/fsi-hack4autism/uc4-invisible-safety-net-for-housing
 
-#### Stakeholders
-* BCBA, parent, child
-#### Leadership team
 | Name | Role | Company |
 |------|------|---------|
 | Leo Junquera | Use Case Lead | Google |
@@ -88,9 +73,6 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 **Hackable Outcome:** A VR environment or web-based simulation featuring LLM-powered characters for social roleplay.
 **GitHub:** https://github.com/fsi-hack4autism/uc6-metaverse-based-skill-building
 
-#### Stakeholders
-* BCBA, parent, child
-#### Leadership team
 | Name | Role | Company |
 |------|------|---------|
 | Caroline Matthews | Use Case Lead | Microsoft |
