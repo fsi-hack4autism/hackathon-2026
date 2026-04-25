@@ -70,7 +70,7 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 
 **Hackable Outcome:** An AI-monitored “Smart Wallet” or fraud-detection layer specifically tuned for vulnerable users.
 
-**GitHub:** https://github.com/fsi-hack4autism/uc4-invisible-safety-net-for-housing
+**GitHub:** https://github.com/fsi-hack4autism/uc5-secure-guardianship-and-longevity
 
 | Name | Role | Company |
 |------|------|---------|
