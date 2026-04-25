@@ -27,7 +27,7 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 | Rob Reese | Tech Lead | Microsoft |
 
 ### Use case 2: AGENTIC IEP ARCHITECT: LIFETIME DATA SYNTHESIS
-**FOCUS:** Utilize Agentic AI and RAG (Retrieval-Augmented Generation) to ingest decades of fragmented data—diagnostic reports, psychoeducational evaluations, and IEPs (Individualized Education Plan). The goal is to build a secure, personalized foundation that generates highly tailored program recommendations that evolve with the individual.
+**FOCUS:** Utilize Agentic AI and RAG (Retrieval-Augmented Generation) to ingest decades of fragmented data—diagnostic reports, psychoeducational evaluations, and IEPs (Individualized Education Plans). The goal is to build a secure, personalized foundation that generates highly tailored program recommendations that evolve with the individual.
 
 **Hackable Outcome:** An AI agent capable of cross-referencing past evaluations to suggest current IEP goals.
 
@@ -41,7 +41,9 @@ The event will be hybrid. The in-person venue will be at **Accenture – One Man
 
 ### Use case 3: AI-AUGMENTED WORKFORCE: UPSKILLING FOR THE AI ECONOMY
 **FOCUS:** This case addresses the transition from school to a shifting workforce. Develop Mobile AI and AR tools that don’t just teach tasks but teach individuals how to interact with and oversee AI-driven workflows. By focusing on “AI Co-piloting,” we enable 1:N support levels where individuals remain competitive and engaged in meaningful, tech-forward work.
+
 **Hackable Outcome:** A tool that helps a user “prompt” or manage an automated system to complete a complex workplace task (e.g., inventory management or digital asset tagging).
+
 **GitHub:** https://github.com/fsi-hack4autism/uc3-upskilling-for-the-ai-economy
 
 | Name | Role | Company |
